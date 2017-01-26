@@ -1,0 +1,18 @@
+link:
+https://discussions.udacity.com/t/project-3-lots-of-guesswork/174839/2
+
+***
+My personal understanding of what each product category is would be something like:
+
+    'Fresh' : Vegetables, fruits, greens; things you'd most likely find at a farmer's market of sorts.
+    'Deli' : Delicatessen; although the word is more modernized now, I would suspect products like meats, cheeses, and sweets would fall in this category
+    'Milk' : Perhaps this can be more general as in dairy, but this one seems fairly straight-forward
+    'Grocery' : If we exclude the other three product classes above from groceries, then most other food items would be from this product class. Examples like cereals, snack foods, etc.
+    'Detergents_Paper' : This would most likely include paper products and cleaning products. I'd suspect it could include office products, but more than likely it means things like toiletries and products like bleach, soaps, cleaners, etc.
+    'Frozen' : Foods that have been prepared and frozen, or things that are typically left on ice. I'd imagine ice cream would be a product of this, as would be things like prepared meals, frozen meats and vegetables, etc.
+
+There most certainly can be cross-overs between the product categories, but my assumption would be that a particular item is classified under a particular, single product class and that is how the monetary spending of that product class is determined.
+
+    Furthermore, somebody doing this analysis for the company would know something about who the customers are that they sell to, and it wasn't fun to try to invent business models that might need to use tons of milk and detergent. I know I could have looked at the dropped "Channel" column but that felt like it was against the spirit of the project, and would have revealed the likely number of clusters.
+
+I don't disagree with you here about that, but one of the challenges that we are presenting you with is that you are trying to use your imagination with the details given to come up with a solution. In a real-world setting, perhaps you would have more information available and that would certainly aid you in deriving solutions. In some sense, we could say this is more difficult than what you'd be faced with out there!
